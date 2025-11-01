@@ -26,8 +26,12 @@ int main(){
     // strcat(s1 , s2);
     // printf("%s", s1);
     // program to compare two string  using strrev()
-    char s1[20]= "Ankit";
-    strrev(s1);
-    printf("%s", s1);
+    // char s1[20]= "Ankit";
+    // strrev(s1);
+    // printf("%s", s1);
+
+    // String array 2D Array
+    char fruits[3][10] = {"Apple", "Banana", "Cherry"};
+    printf("%s", fruits[1,2]);
     return 0;
 }
