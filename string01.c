@@ -32,6 +32,7 @@ int main(){
 
     // String array 2D Array
     char fruits[3][10] = {"Apple", "Banana", "Cherry"};
-    printf("%s", fruits[1,2]);
+    // printf("%s", fruits[1,2]);
+    printf("%c", fruits[1][2]);
     return 0;
 }
