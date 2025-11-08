@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include<string.h>
 
 int stringLength(char str[]){
     int length = 0;
