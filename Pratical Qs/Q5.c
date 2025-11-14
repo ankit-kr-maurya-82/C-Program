@@ -20,3 +20,4 @@ int main() {
         printf("Name NOT FOUND in the array.\n");
     return 0;
 }
+// 5. Ask the user to enter 5 names and then input another name. Check if the entered name is present in the array.

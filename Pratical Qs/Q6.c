@@ -4,5 +4,7 @@ void displayMessage(){
 }
 int main() {
     displayMessage();
-return 0;
+    return 0;
 }
+
+// 6. Write a function displayMessage() that prints “Hello, welcome to C programming!”. Call it from main().
