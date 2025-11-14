@@ -11,3 +11,5 @@ int main() {
 int add(int a, int b) {
     return a+b;
 }
+
+// 10. Write a program that uses a function prototype before main() and defines the function after main().

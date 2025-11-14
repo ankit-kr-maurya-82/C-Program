@@ -14,3 +14,6 @@ void calculate(int a, int b, int *sum, float *avg) {
     *sum=a+b;           
     *avg=(float)(*sum) / 2;
 }
+
+
+// 11.  Pass two numbers to a function and return their sum and average.
