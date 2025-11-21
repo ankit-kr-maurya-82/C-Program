@@ -6,7 +6,7 @@ int main() {
     scanf("%d", &x);
     printf("Enter base n: ");
     scanf("%d", &n);
-    printf("%d^%d = %d", x,n, power(x,n))  ;
+    printf("%d^%d = %d", x,n, power(x,n));
     return 0;
 }
 
