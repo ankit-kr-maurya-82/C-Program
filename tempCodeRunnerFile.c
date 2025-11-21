@@ -1,2 +1,5 @@
-Largest number %d\n",largest);
-        printf("S
+;
+    // printf("Enter a character: ");
+    // ch = getchar();
+    // printf("you entered: ");
+    // putchar(ch);
