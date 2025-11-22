@@ -1,10 +1,11 @@
 #include<stdio.h>
+#include<string.h>
 int main() {
     char name[50];
     printf("Enter : ");
     scanf("%s", &name);
 
-    if(name == "ankit"){
+    if(strcmp(name, "ankit") == 0){
         printf("%s", name);
     }else{
         printf("bio");
