@@ -12,7 +12,7 @@ int stringLength(char str[]){
 int main(){
 
     //    Length in String
-    int length = stringLength("Ankit");
+    int length = stringLength("Bhrantik Nagar");
     printf("The length of the strings is: %d", length);
 
     
