@@ -8,17 +8,36 @@ int main() {
     // }
 
 
+    // int marks[5];
+
+    // for(int i=0;i<5;i++){
+    //     int a=i+1;
+    //     printf("enter element number %d: ",a);
+    //     scanf("%d", &marks[i]);
+    // }
+
+    // for(int i=0;i<5;i++){
+    //     printf("%d ", marks[i]);
+    // }
+
+
+
+    // reverse print
+
     int marks[5];
 
-    for(int i=0;i<5;i++){
+    for(int i=0;i<=5;i++){
         int a=i+1;
         printf("enter element number %d: ",a);
         scanf("%d", &marks[i]);
     }
 
-    for(int i=0;i<5;i++){
+    for(int i=5;i>=0;i--){
         printf("%d ", marks[i]);
     }
+
+
+
     
 
     
