@@ -1,14 +1,3 @@
-#include<stdio.h>
-int main() {
-    char name[50];
-    printf("Enter : ");
-    scanf("%s", &name);
-
-    if(name == "ankit"){
-        printf("%s", name);
-    }else{
-        printf("bio");
-    }
-
-return 0;
-}
+void change(int *x){
+//     *x=10;
+// }

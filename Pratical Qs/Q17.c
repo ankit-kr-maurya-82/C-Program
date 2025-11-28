@@ -2,11 +2,14 @@
 int fibonacci(int n);
 int main() {
     int n;
-    printf("Enter number of terms: ");
-    scanf("%d", &n);
-    for(int i=0; i<n; i++){
-        printf("%d", fibonacci(i));
-    } 
+    printf("rnter");
+    scanf("%d",)
+    // int n;
+    // printf("Enter number of terms: ");
+    // scanf("%d", &n);
+    // for(int i=0; i<n; i++){
+    //     printf("%d", fibonacci(i));
+    // } 
     return 0;
 }
 int fibonacci(int n){
