@@ -1,8 +1,4 @@
-#include<stdio.h>
-int factorial(int n);
-int main() {
-
-    int n;
+   int n;
     printf("Enter a number: ");
     scanf("%d", &n);
     int result = factorial(n);
@@ -15,6 +11,3 @@ int factorial(int n) {
     else
         return n * factorial(n - 1);
 }
-
-
-// 16.Write a recursive function factorial(int n) to calculate the factorial of a number.
